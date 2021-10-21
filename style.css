@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: grey;
+}
+.input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input img{
+    width: 25px;
+    height: 25px;
+    margin-left: 25px;
+}
+.main-left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+}
+.main-right{
+    background-color: #FFE4E1;
+    height: 150px;
+    padding: 15px;
+    
+}
+.main-title{
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 60px;
+    font-size: 48px;
+    font-weight: 600;
+}
+.main-right__text{
+    margin-top: 30px;
+}
+.main-left__blocks{
+    margin-right: 60px;
+}
+.main-left__block{
+    margin-bottom: 30px;
+}
+.main-left__block img{
+    width: 300px;
+    height: 500px;   
+}
+.main-left__block div{
+    padding: 15px 0;
+    width: 100%;
+    text-align: center;
+    background-color: yellow ;
+}
+.main-left__right img{
+    width: 300px;
+    height: 500px;  
+}
+.main-left__right div{
+    padding: 15px 0;
+    width: 100%;
+    text-align: center;
+    background-color: yellow ;
+
+
+}
+.main {
+    display: flex;
+    justify-content: center;
+}
+.main2-block img{
+    width: 250px; 
+}
+.main2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: grey;
+    margin-top: 60px;
+}
+.social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.soc img{
+    margin-right: 30px;
+    width: 25px;
+    height: 25px;
+    margin-top: 15px;
+}
+.header_nav a{
+    margin-right: 40px;
+}
+.main2-block div{
+    padding: 15px 0;
+    width: 100%;
+    text-align: center;
+    background-color: yellow ;
+}.main2-block{
+    margin-right: 15px;
+}
+.main3-blocks{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main3-block{
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+.main3-block img{
+    width: 250px;
+}
+.main3-block div{
+    width: 250px;
+    padding: 15px 0;
+    width: 100%;
+    text-align: center;
+    background-color: yellow ;
+}
